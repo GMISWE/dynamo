@@ -1,0 +1,9 @@
+[package]
+name = "dynamo-serve"
+version = "0.1.0"
+edition = "2021"
+description = "Rust wrapper for dynamo serve command"
+authors = ["NVIDIA Inc. <sw-dl-dynamo@nvidia.com>"]
+license = "Apache-2.0"
+
+[dependencies] 

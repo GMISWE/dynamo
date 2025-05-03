@@ -1741,6 +1741,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "dynamo-serve"
+version = "0.1.0"
+
+[[package]]
 name = "dynamo-tokens"
 version = "0.2.0"
 dependencies = [

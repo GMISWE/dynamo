@@ -91,3 +91,9 @@ TensorRT-LLM
 .build/
 # Copied binaries to ignore
 deploy/dynamo/sdk/src/dynamo/sdk/cli/bin
+
+# Ignore all files in the examples directory
+examples/llm/benchmarks/*
+
+# Ignore all files in the tests directory
+tests/*
